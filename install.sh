@@ -1,4 +1,4 @@
 #!/bin/sh
 
 apk update
-apk add mysql
+apk add mysql mysql-client
