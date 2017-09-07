@@ -1,6 +1,7 @@
 #!/bin/sh
 
 mkdir -p /run/mysqld
+mkdir -p /mysql-bootstrap.d
 
 mysql_install_db
 
